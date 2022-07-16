@@ -1,0 +1,26 @@
+{
+    "tokens": {
+        "Guard_1": "",
+        "Guard_2": "",
+        "Guards": [],
+        "Voucher": "",
+        "Executive": "OTk2ODUwMTYxMzgyODUwNzEw.GHA6zs.BL2Fxa_9qcjp6nPrhSw3gOmE4mte05u88B1kvE",
+        "Database": "",
+        "Helpers": []
+    },
+    "guild": {
+        "GuildID": "996849568484429896",
+        "Bot_Voice": "996849569067454601",
+        "Vanity_URL": "",
+        "Bot_Status": "online",
+        "Bot_Durum": "AKIL SAGLINI KAYBET",
+        "Bot_Type": "WATCHING",
+        "Mongo_DB": "",
+        "Prefix": "!",
+        "Prefixes": [
+            "!",
+            "."
+        ],
+        "slashcommandclientid": "996850161382850710"
+    }
+}
